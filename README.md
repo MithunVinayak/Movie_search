@@ -4,6 +4,5 @@
 * This is Built using React & MovieDB API
 
 ### Deployment
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/173a4533-5479-42d1-9895-bdc7c9f045e7/deploy-status)](https://eloquent-babbage-317806.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/995afd92-4b06-4420-b92a-f6f22fab2843/deploy-status)](https://app.netlify.com/sites/dashing-cobbler-8a0250/deploys)
 
